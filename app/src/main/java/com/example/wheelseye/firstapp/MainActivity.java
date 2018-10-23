@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
     public void testMethod()
     {
         Log.e("dsv","FSDGBS");
+        Log.e("dsv","FSDGBS");
+
     }
 
 }
